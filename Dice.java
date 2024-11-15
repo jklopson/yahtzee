@@ -1,4 +1,4 @@
-//Jack Klopson | CS2100 Final Project Dice Class | 11-14-2024
+// Jack Klopson | CS2100 Final Project Dice Class | 11-14-2024
 
 import java.util.ArrayList;
 
