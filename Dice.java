@@ -57,9 +57,9 @@ public class Dice {
     }
 
     /**
-     * 
-     * @param val
-     * @return
+     * Counts the number of a certain value Die in the arraylist
+     * @param val value to count
+     * @return int number of Die with value val in arraylist
      */
     public int count(int val) {
         int ct = 0;
